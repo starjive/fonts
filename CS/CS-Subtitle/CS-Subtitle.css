@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'Subtitle';
+	font-weight: 200;
+	font-style: normal;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Thin.otf') format('opentype');
+}
+
+@font-face {
+	font-weight: 300;
+	font-style: normal;
+	font-family: 'Subtitle';
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Light.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Subtitle';
+	font-weight: 400;
+	font-style: normal;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Subtitle';
+	font-weight: 500;
+	font-style: normal;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Medium.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Subtitle';
+	font-weight: 700;
+	font-style: normal;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Subtitle';
+	font-weight: 800;
+	font-style: normal;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Black.otf') format('opentype');
+}
