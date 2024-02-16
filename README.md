@@ -5,20 +5,21 @@
 
 <br>
 
-<h3>Subtitle</h3>
-```css
-@import url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle.css');
-```
-
-<br>
-
 <h3>Text</h3>
 ```css
 @import url('https://starjive.github.io/fonts/CS/CS-Text/CS-Text.css');
 ```
+
 <br>
 
 <h3>Display</h3>
 ```css
 @import url('https://starjive.github.io/fonts/CS/CS-Display/CS-Display.css');
+```
+
+<br>
+
+<h3>Subtitle</h3>
+```css
+@import url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle.css');
 ```
