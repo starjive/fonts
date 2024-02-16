@@ -2,126 +2,126 @@
 	font-family: 'CS Display';
 	font-weight: 100;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Ultralight.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Ultralight.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 100;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-UltralightItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-UltralightItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 200;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Thin.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Thin.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 200;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-ThinItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-ThinItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-weight: 300;
 	font-style: normal;
 	font-family: 'CS Display';
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Light.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Light.otf') format('opentype');
 }
 
 @font-face {
 	font-weight: 300;
 	font-style: italic;
 	font-family: 'CS Display';
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-LightItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-LightItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 400;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Regular.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Regular.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 400;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-RegularItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-RegularItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-weight: 500;
 	font-style: normal;
 	font-family: 'CS Display';
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Medium.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Medium.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 500;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-MediumItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-MediumItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 600;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Semibold.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Semibold.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 600;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-SemiboldItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-SemiboldItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 700;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Bold.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Bold.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 700;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-BoldItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-BoldItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 800;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Black.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Black.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 800;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-BlackItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-BlackItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 900;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-Heavy.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-Heavy.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Display';
 	font-weight: 900;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Display-HeavyItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Display-HeavyItalic.otf') format('opentype');
 }
 
 :root {

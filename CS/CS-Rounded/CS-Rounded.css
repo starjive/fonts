@@ -2,63 +2,63 @@
 	font-family: 'CS Rounded';
 	font-weight: 100;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Ultralight.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Ultralight.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Rounded';
 	font-weight: 200;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Thin.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Thin.otf') format('opentype');
 }
 
 @font-face {
 	font-weight: 300;
 	font-style: normal;
 	font-family: 'CS Rounded';
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Light.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Light.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Rounded';
 	font-weight: 400;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Regular.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Regular.otf') format('opentype');
 }
 
 @font-face {
 	font-weight: 500;
 	font-style: normal;
 	font-family: 'CS Rounded';
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Medium.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Medium.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Rounded';
 	font-weight: 600;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Semibold.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Semibold.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Rounded';
 	font-weight: 700;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Bold.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Bold.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Rounded';
 	font-weight: 800;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Black.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Black.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Rounded';
 	font-weight: 900;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Heavy.woff2') format('woff2')
+	src: url('https://starjive.github.io/fonts/CS/CS-Rounded-Heavy.otf') format('opentype');
 }
 
 :root {

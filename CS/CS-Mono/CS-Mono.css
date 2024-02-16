@@ -2,84 +2,84 @@
 	font-family: 'CS Mono';
 	font-weight: 300;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Light.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Light.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 300;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-LightItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-LightItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 400;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Regular.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Regular.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 400;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-RegularItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-RegularItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 500;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Medium.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Medium.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 500;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-MediumItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-MediumItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 600;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Semibold.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Semibold.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 600;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-SemiboldItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-SemiboldItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 700;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Bold.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Bold.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 700;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-BoldItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-BoldItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 900;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Heavy.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-Heavy.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'CS Mono';
 	font-weight: 900;
 	font-style: italic;
-	src: url('https://starjive.github.io/fonts/CS/CS-Mono-HeavyItalic.woff2') format('opentype')
+	src: url('https://starjive.github.io/fonts/CS/CS-Mono-HeavyItalic.otf') format('opentype');
 }
 
 :root {
