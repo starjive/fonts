@@ -1,41 +1,87 @@
 @font-face {
-	font-family: 'Subtitle';
+	font-family: 'CS Subtitle';
 	font-weight: 200;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Thin.otf') format('opentype');
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-Thin.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'CS Subtitle';
+	font-weight: 200;
+	font-style: italic;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-ThinItalic.otf') format('opentype');
 }
 
 @font-face {
 	font-weight: 300;
 	font-style: normal;
-	font-family: 'Subtitle';
-	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Light.otf') format('opentype');
+	font-family: 'CS Subtitle';
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-Light.otf') format('opentype');
 }
 
 @font-face {
-	font-family: 'Subtitle';
+	font-weight: 300;
+	font-style: italic;
+	font-family: 'CS Subtitle';
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'CS Subtitle';
 	font-weight: 400;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Regular.otf') format('opentype');
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-Regular.otf') format('opentype');
 }
 
 @font-face {
-	font-family: 'Subtitle';
+	font-family: 'CS Subtitle';
+	font-weight: 400;
+	font-style: italic;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-RegularItalic.otf') format('opentype');
+}
+
+@font-face {
 	font-weight: 500;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Medium.otf') format('opentype');
+	font-family: 'CS Subtitle';
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-Medium.otf') format('opentype');
 }
 
 @font-face {
-	font-family: 'Subtitle';
+	font-family: 'CS Subtitle';
+	font-weight: 500;
+	font-style: italic;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-MediumItalic.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'CS Subtitle';
 	font-weight: 700;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Bold.otf') format('opentype');
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-Bold.otf') format('opentype');
 }
 
 @font-face {
-	font-family: 'Subtitle';
+	font-family: 'CS Subtitle';
+	font-weight: 700;
+	font-style: italic;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'CS Subtitle';
 	font-weight: 800;
 	font-style: normal;
-	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle-Black.otf') format('opentype');
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-Black.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'CS Subtitle';
+	font-weight: 800;
+	font-style: italic;
+	src: url('https://starjive.github.io/fonts/CS/CS-Subtitle/CS-Subtitle-BlackItalic.otf') format('opentype');
+}
+
+:root {
+	--font-primary-subtitle: 'CS Subtitle';
 }
