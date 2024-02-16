@@ -1,0 +1,54 @@
+@font-face {
+font-family: 'SF Pro Rounded';
+font-weight: 100;
+font-style: normal;
+src: url('SF-Pro-Rounded-Ultralight.woff2') format('woff2'),url('SF-Pro-Rounded-Ultralight.woff') format('woff')
+}
+@font-face {
+font-family: 'SF Pro Rounded';
+font-weight: 200;
+font-style: normal;
+src: url('SF-Pro-Rounded-Thin.woff2') format('woff2'),url('SF-Pro-Rounded-Thin.woff') format('woff')
+}
+@font-face {
+font-weight: 300;
+font-style: normal;
+font-family: 'SF Pro Rounded';
+src: url('SF-Pro-Rounded-Light.woff2') format('woff2'),url('SF-Pro-Rounded-Light.woff') format('woff')
+}
+@font-face {
+font-family: 'SF Pro Rounded';
+font-weight: 400;
+font-style: normal;
+src: url('SF-Pro-Rounded-Regular.woff2') format('woff2'),url('SF-Pro-Rounded-Regular.woff') format('woff')
+}
+@font-face {
+font-weight: 500;
+font-style: normal;
+font-family: 'SF Pro Rounded';
+src: url('SF-Pro-Rounded-Medium.woff2') format('woff2'),url('SF-Pro-Rounded-Medium.woff') format('woff')
+}
+@font-face {
+font-family: 'SF Pro Rounded';
+font-weight: 600;
+font-style: normal;
+src: url('SF-Pro-Rounded-Semibold.woff2') format('woff2'),url('SF-Pro-Rounded-Semibold.woff') format('woff')
+}
+@font-face {
+font-family: 'SF Pro Rounded';
+font-weight: 700;
+font-style: normal;
+src: url('SF-Pro-Rounded-Bold.woff2') format('woff2'),url('SF-Pro-Rounded-Bold.woff') format('woff')
+}
+@font-face {
+font-family: 'SF Pro Rounded';
+font-weight: 800;
+font-style: normal;
+src: url('SF-Pro-Rounded-Black.woff2') format('woff2'),url('SF-Pro-Rounded-Black.woff') format('woff')
+}
+@font-face {
+font-family: 'SF Pro Rounded';
+font-weight: 900;
+font-style: normal;
+src: url('SF-Pro-Rounded-Heavy.woff2') format('woff2'),url('SF-Pro-Rounded-Heavy.woff') format('woff')
+}
